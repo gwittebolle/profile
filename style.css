@@ -45,6 +45,10 @@ li i:hover {
   color : blue;
 }
 
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
